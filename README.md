@@ -1,5 +1,6 @@
-### Hi there 👋
+### Offical GitHub Ayont Account ⭐
 
+[![](https://visitcount.itsvg.in/api?id=Ayont&label=&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **Ayont/Ayont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
