@@ -1,5 +1,5 @@
 ### Offical GitHub Ayont Account ⭐
-## New Developer 👶
+## Fronend Developer | IT-Technical ⚙️
 
 My Projects:
 - Minecraft Server Varilx.DE: https://discord.gg/varilx (🇩🇪)
