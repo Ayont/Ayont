@@ -8,7 +8,10 @@
 ### Learning 💭
 - I’m currently learning [React](https://github.com/facebook/react)
   
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://patreon.com/varilx)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=green)](https://patreon.com/varilx) 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ayont&style=flat-square&color=green" alt="Profilaufrufe" />
+</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=Ayont&label=Profilaufrufe&icon=3&pretty=true)](https://visitcount.itsvg.in)
@@ -18,5 +21,7 @@
 ## 🖌️ Design & Modelling
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
 
-![Ayont's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayont&show_icons=true&theme=midnight-purple) 
+![Ayont's Stats](https://github-readme-stats.vercel.app/api?username=Ayont&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+![Ayont's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayont&theme=blue-green&hide_border=false)
+![Ayont's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayont&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=midnight-purple)
