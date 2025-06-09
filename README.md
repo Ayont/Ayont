@@ -13,7 +13,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayont&margin-w=15&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayont&margin-w=15&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech Stack
 
@@ -63,10 +63,10 @@
 
 ## Coding Activity
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayont&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
