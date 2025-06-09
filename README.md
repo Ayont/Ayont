@@ -54,9 +54,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayont&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayont&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayont&theme=tokyonight&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayont&theme=dark&area=true&order=5&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayont&theme=dark&area=true&order=5&hide_border=true&hide_title=true" />
 </div>
 
 ---
