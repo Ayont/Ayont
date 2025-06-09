@@ -63,7 +63,6 @@
 
 [![WakaTime](https://wakatime.com/badge/user/Ayont.svg)](https://wakatime.com/@Ayont)
 
-```text
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -125,7 +124,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 09/06/2025 01:15:44 UTC
 <!--END_SECTION:waka-->
-```
 
 ---
 
