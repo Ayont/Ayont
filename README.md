@@ -61,8 +61,6 @@
 
 ## Coding Activity
 
-[![WakaTime](https://wakatime.com/badge/user/Ayont.svg)](https://wakatime.com/@Ayont)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -126,6 +124,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:start-->
+<!--WakaTime data will automatically update here once enabled in WakaTime dashboard-->
 <!--RECENT_ACTIVITY:end-->
 
 ---
