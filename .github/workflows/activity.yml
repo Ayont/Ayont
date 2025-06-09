@@ -20,6 +20,4 @@ jobs:
           MAX_LINES: 10
           TARGET_FILE: "README.md"
           COMMIT_MSG: "Update GitHub activity"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
          
