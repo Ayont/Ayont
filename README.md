@@ -123,9 +123,9 @@ Kotlin                   1 repo              █░░░░░░░░░░�
  Last Updated on 09/06/2025 01:32:15 UTC
 <!--END_SECTION:waka-->
 
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 <!--WakaTime data will automatically update here once enabled in WakaTime dashboard-->
-<!--RECENT_ACTIVITY:end-->
+<!--END_SECTION:activity-->
 
 ---
 
