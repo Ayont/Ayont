@@ -13,6 +13,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayont&margin-w=15&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Tech Stack
 
 ### Languages, Frameworks & Tools
