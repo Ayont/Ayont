@@ -1,0 +1,25 @@
+name: Hourly Ayont Readme Updater
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  activity:
+    name: "Updates the repo's README with lastest activities"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Generate README activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          MAX_LINES: 10
+          TARGET_FILE: "README.md"
+          COMMIT_MSG: "Update GitHub activity"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+         
