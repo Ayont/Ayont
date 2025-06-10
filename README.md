@@ -65,48 +65,9 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayont&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2300 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-🌆 Daytime                4431 commits        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-🌃 Evening                4317 commits        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-🌙 Night                  4797 commits        ████████░░░░░░░░░░░░░░░░░   30.27 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3840 commits        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Tuesday                  1322 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Wednesday                1361 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Thursday                 2733 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Friday                   2497 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Saturday                 2342 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Sunday                   1750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Java** 
 
@@ -121,7 +82,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 21:32:44 UTC
+ Last Updated on 10/06/2025 00:09:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
