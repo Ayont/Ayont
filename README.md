@@ -134,7 +134,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/Varilx-Development/BaseAPI/pull/45) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)
+1. 🎉 Merged PR [#44](https://github.com/Varilx-Development/BaseAPI/pull/44) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)
 <!--END_SECTION:activity-->
 
 ---
