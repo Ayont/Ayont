@@ -65,7 +65,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayont&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -98,19 +98,19 @@ Sunday                   2801 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    15 mins             ██████████████░░░░░░░░░░░   56.51 % 
-HTML                     11 mins             ███████████░░░░░░░░░░░░░░   43.49 % 
+HTML                     25 mins             █████████████████████████   98.32 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Spotify                  15 mins             ██████████████░░░░░░░░░░░   55.97 % 
-Trae                     11 mins             ███████████░░░░░░░░░░░░░░   43.63 % 
-IntelliJIDEAUltimateEditi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Trae                     25 mins             █████████████████████████   99.31 % 
+IntelliJIDEAUltimateEditi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Spotify                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-Unknown Project          27 mins             █████████████████████████   100.00 % 
+Unknown Project          25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -126,7 +126,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2025 00:10:33 UTC
+ Last Updated on 10/07/2025 00:11:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
