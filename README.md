@@ -132,7 +132,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Varilx-Development/VEconomy/pull/15) in [Varilx-Development/VEconomy](https://github.com/Varilx-Development/VEconomy)
+1. 🎉 Merged PR [#48](https://github.com/Varilx-Development/BaseAPI/pull/48) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)
 <!--END_SECTION:activity-->
 
 ---
