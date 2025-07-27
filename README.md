@@ -132,7 +132,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/Varilx-Development/BaseAPI/pull/48) in [Varilx-Development/BaseAPI](https://github.com/Varilx-Development/BaseAPI)
+1. 🔒 Closed issue [#23](https://github.com/Varilx-Development/VSit/issues/23) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)
 <!--END_SECTION:activity-->
 
 ---
