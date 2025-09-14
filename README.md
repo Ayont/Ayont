@@ -8,8 +8,8 @@
 ---
 
 ## Projects
-- Varilx.DE – German Minecraft Server: [https://varilx.de](https://varilx.de)
-- Varilx Development: [https://dev.varilx.de](https://dev.varilx.de)
+- Veyloer.NET – German Minecraft Server: [https://veylor.net](https://varilx.de)
+- Varilx Development (discontinued): [https://dev.varilx.de](https://dev.varilx.de)
 
 ---
 
