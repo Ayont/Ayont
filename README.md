@@ -9,7 +9,6 @@
 
 ## Projects
 - Veylor.NET – German Minecraft Server: [https://veylor.net](https://varilx.de)
-- Veylor Development (discontinued): [https://dev.varilx.de](https://dev.varilx.de)
 
 ---
 
@@ -67,59 +66,16 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2425 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-🌆 Daytime                4758 commits        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-🌃 Evening                4883 commits        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-🌙 Night                  5117 commits        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4263 commits        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Tuesday                  1617 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Wednesday                1495 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Thursday                 2768 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Friday                   2565 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 2446 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Sunday                   2029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-```
-
-
-**I Mostly Code in Java** 
-
-```text
-Java                     26 repos            █████████████████░░░░░░░░   66.67 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-
-
-
-
- Last Updated on 03/08/2025 00:11:16 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/Varilx-Development/VSit/issues/23) in [Varilx-Development/VSit](https://github.com/Varilx-Development/VSit)
-<!--END_SECTION:activity-->
-
----
-
-## Support & Links
-
-- Patreon: [https://patreon.com/varilx](https://patreon.com/varilx)
 
 - Profile Views:  
   <img src="https://komarev.com/ghpvc/?username=Ayont&style=flat-square&color=brightgreen" alt="Profile Views" />
   [![](https://visitcount.itsvg.in/api?id=Ayont&label=Profile+Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+## Support & Links
+
+- Patreon: [https://patreon.com/veylor](https://patreon.com/veylor)
 
 ---
