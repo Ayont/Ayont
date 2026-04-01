@@ -102,6 +102,21 @@ motto: "Always Learning & Building"
 </p>
 </details>
 
+<details open>
+<summary><b>AI & LLMs</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-1a1a1a?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_CLI-1a1a1a?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mistral-1a1a1a?style=for-the-badge&logo=mistral&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-1a1a1a?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-1a1a1a?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-1a1a1a?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+</p>
+</details>
+
 ---
 
 ### GitHub Stats
@@ -136,6 +151,7 @@ motto: "Always Learning & Building"
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Ayont/Ayont/output/github-snake-dark.svg" />
   </picture>
 </div>
+
 
 ---
 
